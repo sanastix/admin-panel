@@ -1,6 +1,6 @@
-CREATE DATABASE simple_admin_db;
+CREATE DATABASE admin_panel_db;
 
-USE simple_admin_db;
+USE admin_panel_db;
 
 CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
